@@ -6,7 +6,7 @@ import (
 	"net/http"
 )
 
-const version string = "nueva teoria de la esclavitud"
+const version string = "nueva teoria de la libertad"
 
 // VersionHandler handles incoming requests to /version
 // and just returns a simple version number
